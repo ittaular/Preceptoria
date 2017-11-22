@@ -131,7 +131,7 @@
                   <li>
                     <div class="profile-header-container">
                       <div class="profile-header-img dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <img class="img-circle" src="http://i2.wp.com/arqa.com/wp-content/uploads/2015/06/new-mistery.png" />
+                        <img class="img-circle" src="https://i2.wp.com/arqa.com/wp-content/uploads/2015/06/new-mistery.png" />
                       </div>
                       <div class="dropdown-menu" aria-labelledby="dropdownMenu2" @click.prevent="logout">
                         <a class="dropdown-item" ><span id="log" class="glyphicon glyphicon-off" ></span> Logout</a>
@@ -161,7 +161,7 @@
                   <p>Ingrese sus datos para iniciar sesión:</p>
                 </div>
                 <div class="form-top-right">
-                  <img src="http://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/taularLogo_mmshim.png">
+                  <img src="https://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/taularLogo_mmshim.png">
                 </div>
               </div>
               <div class="form-bottom">
@@ -335,11 +335,11 @@ export default {
 }
 
 #app {
-  background-image: url(http://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
+  background-image: url(https://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
 }
 
 #back {
-  background-image: url(http://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
+  background-image: url(https://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
   background-attachment: fixed;
 }
 
@@ -414,7 +414,7 @@ span {
   max-width: 250px;
   height: 1000px;
   /*background: #42bfc2;**/
-  background-image: url(http://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
+  background-image: url(https://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
   color: #fff;
   transition: all 0.3s;
   position: fixed;
@@ -468,7 +468,7 @@ span {
 
 #sidebar .sidebar-header {
   padding: 20px;
-  background-image: url(http://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
+  background-image: url(https://res.cloudinary.com/dp9zefqm7/image/upload/v1505247033/backgroundLogin_laom0d.jpg);
 }
 
 #sidebar .sidebar-header strong {
