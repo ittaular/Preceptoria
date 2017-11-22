@@ -1,6 +1,6 @@
 <template>
   <div id="hello">
-    <img src="http://vuejs.org/images/logo.png">
+    <img src="https://vuejs.org/images/logo.png">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
@@ -11,8 +11,8 @@
     </ul>
     <h2>Ecosystem</h2>
     <ul>
-      <li><a href="http://router.vuejs.org/" target="_blank">vue-router</a></li>
-      <li><a href="http://vuex.vuejs.org/" target="_blank">vuex</a></li>
+      <li><a href="https://router.vuejs.org/" target="_blank">vue-router</a></li>
+      <li><a href="https://vuex.vuejs.org/" target="_blank">vuex</a></li>
       <li><a href="https://github.com/vuejs/vueify" target="_blank">vueify</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
     </ul>

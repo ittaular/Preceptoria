@@ -1,7 +1,7 @@
 <template>
     <div class="container ">
         <div class="col-lg-12" id="hello">
-            <img src="http://res.cloudinary.com/dp9zefqm7/image/upload/w_400/v1505247033/taularLogo_mmshim.png">
+            <img src="https://res.cloudinary.com/dp9zefqm7/image/upload/w_400/v1505247033/taularLogo_mmshim.png">
 
         </div>
         <div class="col-lg-12" id="ju">
